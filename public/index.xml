@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Al Ganiev</title>
+    <link>http://helios-ag.github.com/</link>
+    <description>Recent content on Al Ganiev</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://helios-ag.github.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://helios-ag.github.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://helios-ag.github.com/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m &lt;strong&gt;Albert Ganiev&lt;/strong&gt;, a Senior Software Engineer with over &lt;strong&gt;10 years of experience&lt;/strong&gt; building modern web applications.&lt;br&gt;&#xA;I specialize in &lt;strong&gt;PHP (Laravel, Symfony)&lt;/strong&gt;, &lt;strong&gt;Golang&lt;/strong&gt;, and &lt;strong&gt;Node.js (NestJS, TSOA)&lt;/strong&gt;, with a strong focus on &lt;strong&gt;microservice architecture&lt;/strong&gt; and backend performance.&lt;/p&gt;&#xA;&lt;p&gt;I’ve worked with global companies like &lt;strong&gt;Burberry&lt;/strong&gt; and &lt;strong&gt;MacroActive&lt;/strong&gt;, delivering scalable, production-ready systems.&lt;br&gt;&#xA;I have improved payment integrations (Stripe, Xero), automated SSL and CI/CD workflows, optimized services with caching, and designed feature-rich APIs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://helios-ag.github.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://helios-ag.github.com/contact/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/helios-ag&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/alganiev&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:helios.ag@gmail.com&#34; &gt;helios.ag@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://helios-ag.github.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://helios-ag.github.com/projects/</guid>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/helios-ag/FMElfinderBundle&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FMElfinderBundle&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Symfony bundle integrating the &lt;a href=&#34;https://github.com/Studio-42/elFinder&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ElFinder&lt;/a&gt; file manager with WYSIWYG editors (e.g., TinyMCE, CKEditor, Summernote).&lt;br&gt;&#xA;&lt;em&gt;Enables file browsing and uploading through a rich frontend interface.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/helios-ag/go-health&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;go-health&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Go library for asynchronous health checks of microservices (a fork of &lt;a href=&#34;https://github.com/InVisionApp/go-health&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;InVisionApp/go-health&lt;/a&gt;).&lt;br&gt;&#xA;&lt;em&gt;Used to track the status of dependencies and expose health endpoints.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/helios-ag/FMBbCodeBundle&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FMBbCodeBundle&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Symfony bundle for parsing and rendering BBCode in user input.&lt;br&gt;&#xA;&lt;em&gt;Simplifies BBCode tag processing in web forms or forums.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/helios-ag/tgstat-go&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tgstat-go&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Go client for the &lt;a href=&#34;https://tgstat.ru&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TGStat.ru&lt;/a&gt; API — a service for Telegram channel and chat analytics.&lt;br&gt;&#xA;&lt;em&gt;Provides typed access to TGStat’s statistics and insights.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
